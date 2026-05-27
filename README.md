@@ -1,6 +1,6 @@
 <h1 align="center">🪴Bonsai</h1>
 
-<h3 align="center">Snip! snip! Prune your Python project into optimized LLM context.</h3>
+<h3 align="center">Snip! snip! Prune your codebase into optimized LLM context.</h3>
 
 Whenever you ask an AI to help debug or extend your code, you need to paste the right files - but figuring out which files matter is tedius, and pasting the whole repo blows past token limits too qucikly. Bonsai solves this by tracing your project's import graph and bundling only the files that matters; all into one clean markdown file. Just drag and drop afterwards-- or paste, doesn't matter, I won't judge 😉
 
